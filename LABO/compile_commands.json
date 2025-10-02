@@ -1,0 +1,105 @@
+[{
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\NodoCola.hpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\NodoCola.hpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\NodoCola.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\NodoCola.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\Cola.hpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\Cola.hpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\Cola.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\Cola.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploColas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\Pila.hpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\Pila.hpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\NodoPila.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\NodoPila.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\NodoPila.hpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\NodoPila.hpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\Pila.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\Pila.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemploPila\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\Persona.hpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\Persona.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo010\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo010",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo010\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo010\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo12",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo12\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo05",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo05\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo09",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo09\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo07",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo07\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo06",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo06\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo004\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo004",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo004\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo004\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo11",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo11\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo03",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo03\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo02",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo02\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\LABO\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\LABO",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\LABO\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\LABO\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo08",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo08\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\lolpi\\Documents\\LABO\\ejemplo01",
+  "command": "clang++ -c C:\\Users\\lolpi\\Documents\\LABO\\ejemplo01\\main.cpp -o C:\\Users\\lolpi\\Documents\\LABO\\ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
